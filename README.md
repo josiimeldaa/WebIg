@@ -1,2 +1,2 @@
-# WebIg
+# WebInstagramSintak
 Created with CodeSandbox
